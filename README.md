@@ -1,17 +1,20 @@
-## Hi there my name is Vinicius Silva , Front-End Developer 
+# Hi my name is Vinicius Silva , Front-End Developer 
 
 
-### What I'm Currently Studying:
+## Currently Studying:
 
 -**JavaScript and Python:** Building solid foundations for robust coding.<br>
 -**React.js:** Embarking on my journey into frameworks for more dynamic development.<br>
 -**Innovative and Functional Design:** Exploring UI/UX principles to enhance my creations.<br>
 -**Personal Projects:** Applying knowledge to practical challenges and small-scale projects.<br>
 
-### Objective:
+
+## Objective:
 I am committed to absorbing knowledge and enhancing my skills as a front-end developer. Every line of code is an achievement, and I am excited to keep learning and contributing to the community.
 
-### Stats of lenguages
+
+
+## Stats of lenguages
 
 <div>
    <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -35,7 +38,8 @@ I am committed to absorbing knowledge and enhancing my skills as a front-end dev
 </div><br>
 
 
-### Contact:
+
+## Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josevinicius03)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvavinicios915@gmail.com)
