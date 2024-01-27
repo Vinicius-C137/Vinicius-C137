@@ -1,4 +1,4 @@
-### Hi there my name Vinicius Silva , Front-End Developer 
+### Hi there my name is Vinicius Silva , Front-End Developer 
 
 
 ## What I'm Currently Studying:
