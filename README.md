@@ -43,4 +43,3 @@ I am committed to absorbing knowledge and enhancing my skills as a front-end dev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josevinicius03)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvavinicios915@gmail.com)
 
--->
