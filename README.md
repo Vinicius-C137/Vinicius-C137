@@ -16,17 +16,11 @@ I am committed to absorbing knowledge and enhancing my skills as a front-end dev
 
 ## Stats of lenguages
 
-<div>
-   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-     <img align="center" height="180em"src="https://github-readme-stats.vercel.app/api?username=Vinicius-C137&show_icons=true&theme=tokyonight">
-     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-C137&layout=compact&theme=tokyonight">
-   </a>
-</div>
 
 <div style="display: inline_block"><br>
-     <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
+     <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
+     <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
      <img align="center" alt="Vini-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
 </div><br>
